@@ -1,4 +1,4 @@
-# bicro:bit 3x enclosure
+# micro:bit 3x enclosure
 3D printable enclosure for 3 BBC micro:mit devices, created with Rhino 6.
 The enclosure fits on a Inateck USB-Hub.
 
